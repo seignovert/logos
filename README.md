@@ -1,15 +1,90 @@
-# Logos
+# Liste de logos vectorisés
 
-Collection de logos vectorisés sur [Inkscape](https://inkscape.org/) pour pouvoir les afficher à taille quelconque avec un fond transparent.
+[![License: MIT](https://img.shields.io/badge/Auteur-B.%20Seignovert-brightgreen.svg)](https://planeto.univ-reims.fr/seignovert)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENCE.md)
 
-## Liste de logos vectorisés:
-- [Agence Nationale pour la recherche (ANR)](http://www.agence-nationale-recherche.fr/)
-- [CNRS](http://www.cnrs.fr/)
-- [Groupe de Spéctroscopie Moléculaire et Atmosphérique (GSMA)](http://www.univ-reims.fr/gsma/)
-- [Région Champagne-Ardenne](https://www.cr-champagne-ardenne.fr/)
-- [Région Grand Est](http://www.alsacechampagneardennelorraine.eu/)
-- [Reims Metropole](http://www.reimsmetropole.fr/)
-- [Université Reims Champagne-Ardenne (URCA)](http://www.univ-reims.fr/)
+> _L’identité visuelle des différents logos sont propriétés de leurs organismes respectifs et doivent être utilisés dans le respect de leurs règles de communication._
 
-## Note
-L’identité visuelle des differents logo ci-contre sont propriétés de leur organisme respectif et doivent être utilisé dans le respect des leurs règles de commuication.
+## [Agence Nationale pour la recherche (ANR)](http://www.agence-nationale-recherche.fr/)
+
+[![PNG](https://img.shields.io/badge/-PNG-blue.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./ANR/logo_ANR.png)
+[![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./ANR/logo_ANR.pdf)
+[![SVG](https://img.shields.io/badge/-SVG-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./ANR/logo_ANR.svg)
+
+<p style="text-align:center">
+  <img src="./ANR/logo_ANR.png" alt="Logo ANR" width="250px">
+</p>
+
+
+## [CNRS](http://www.cnrs.fr/)
+
+[![PNG](https://img.shields.io/badge/-PNG-blue.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./CNRS/logo_CNRS.png)
+[![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./CNRS/logo_CNRS.pdf)
+[![SVG](https://img.shields.io/badge/-SVG-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./CNRS/logo_CNRS.svg)
+
+<p style="text-align:center">
+  <img src="./CNRS/logo_CNRS.png" alt="Logo CNRS" width="250px">
+</p>
+
+## [Groupe de Spéctroscopie Moléculaire et Atmosphérique (GSMA)](http://www.univ-reims.fr/gsma/)
+
+[![PNG](https://img.shields.io/badge/-PNG-blue.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./GSMA/logo_GSMA.png)
+[![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./GSMA/logo_GSMA.pdf)
+[![SVG](https://img.shields.io/badge/-SVG-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./GSMA/logo_GSMA.svg)
+
+<p style="text-align:center">
+  <img src="./GSMA/logo_GSMA.png" alt="Logo GSMA" width="250px">
+</p>
+
+
+## [Région Champagne-Ardenne](https://www.cr-champagne-ardenne.fr/)
+
+[![PNG](https://img.shields.io/badge/-PNG-blue.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Region_Champagne_Ardenne/logo_CA.png)
+[![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Region_Champagne_Ardenne/logo_CA.pdf)
+[![SVG](https://img.shields.io/badge/-SVG-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Region_Champagne_Ardenne/logo_CA.svg)
+
+<p style="text-align:center">
+  <img src="./Region_Champagne_Ardenne/logo_CA.png" alt="Logo Region Champagne-Ardenne" width="250px">
+</p>
+
+## [Région Grand Est](http://www.alsacechampagneardennelorraine.eu/)
+
+[![PNG](https://img.shields.io/badge/-PNG-blue.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Region_Grand_Est/logo_GE.png)
+[![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Region_Grand_Est/logo_GE.pdf)
+[![SVG](https://img.shields.io/badge/-SVG-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Region_Grand_Est/logo_GE.svg)
+
+<p style="text-align:center">
+  <img src="./Region_Grand_Est/logo_GE.png" alt="Logo Region Grand Est" width="250px">
+</p>
+
+## [Reims Métropole](http://www.reimsmetropole.fr/)
+
+[![PNG](https://img.shields.io/badge/-PNG-blue.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Reims_Metropole/logo_RM.png)
+[![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Reims_Metropole/logo_RM.pdf)
+[![SVG](https://img.shields.io/badge/-SVG-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./Reims_Metropole/logo_RM.svg)
+
+<p style="text-align:center">
+  <img src="./Reims_Metropole/logo_RM.png" alt="Logo Reims Métropole" width="250px">
+</p>
+
+## [Université Reims Champagne-Ardenne (URCA)](http://www.univ-reims.fr/)
+
+_Version couleur_ :
+
+[![PNG](https://img.shields.io/badge/-PNG-blue.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./URCA/logo_URCA.png)
+[![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./URCA/logo_URCA.pdf)
+[![SVG](https://img.shields.io/badge/-SVG-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./URCA/logo_URCA.svg)
+
+<p style="text-align:center">
+  <img src="./URCA/logo_URCA.png" alt="Logo URCA" width="250px">
+</p>
+
+_Version monochrome (blanc)_ :
+
+[![PNG](https://img.shields.io/badge/-PNG-blue.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./URCA/logo_URCA-white.png)
+[![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./URCA/logo_URCA-white.pdf)
+[![SVG](https://img.shields.io/badge/-SVG-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)](./URCA/logo_URCA-white.svg)
+
+<p style="text-align:center">
+  <img src="./URCA/logo_URCA-white.png" alt="Logo URCA (monochrome)" width="250px">
+</p>
